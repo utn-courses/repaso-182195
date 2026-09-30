@@ -1,0 +1,24 @@
+{
+  "name": "api-backend-182195",
+  "version": "1.0.0",
+  "description": "Una simple api para gestionar usuarios",
+  "main": "index.js",
+  "author": "gabialberini733@gmail.com",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "users",
+    "mongodb",
+    "react",
+    "utn"
+  ],
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.10.3"
+  }
+}
